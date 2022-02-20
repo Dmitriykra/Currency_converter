@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Dimaster</string>
+    <string name="app_name">Конвертер валют</string>
+    <string name="country">Выберите страну</string>
+    <string name="search">Поиск</string>
+    <string name="convert_from">Конвертировать из</string>
+    <string name="convert_in">Конвертировать в</string>
+    <string name="choose_country">Страна</string>
+    <string name="sum_of_exchange">Сумма обмена</string>
+    <string name="exchange_rate">Курс</string>
+    <string name="convert_btn">Конвертировать</string>
 </resources>
