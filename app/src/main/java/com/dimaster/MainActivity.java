@@ -63,7 +63,6 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     ArrayAdapter currencyAdapter;
     String currencyNameFrom, currencyNameTo;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
