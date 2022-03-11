@@ -1,4 +1,4 @@
-package com.dimaster;
+package com.currencty;
 
 import android.content.Context;
 

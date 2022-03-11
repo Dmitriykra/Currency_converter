@@ -1,4 +1,4 @@
-package com.dimaster;
+package com.currencty;
 
 import org.junit.Test;
 
